@@ -1,0 +1,24 @@
+h3{
+    background:#A3BCF9;
+}
+.body{
+    background-color: salmon;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text_images_and_result{
+    background-color: #B1B5C8;
+    padding: 30px;
+    border-radius: 20px;
+    width:50%;
+}
+#image{
+    width: 50px;
+    height: 50px;
+    border-radius: 20px;
+}
+.copy_right_footer{
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    background-color: salmon;
+}
